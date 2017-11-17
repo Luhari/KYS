@@ -1,0 +1,117 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+Platform assembly: C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\luhar\OneDrive\Documentos\KYS\Assets\KYS_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.713876 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 24dc -> priority: 1 
+  Thread -> id: 4edc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.274963 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 537.
+Total: 0.184098 ms (FindLiveObjects: 0.027654 ms CreateObjectMapping: 0.019358 ms MarkObjects: 0.097580 ms  DeleteObjects: 0.039111 ms)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.248000 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 624.
+Total: 0.505284 ms (FindLiveObjects: 0.078617 ms CreateObjectMapping: 0.061234 ms MarkObjects: 0.289580 ms  DeleteObjects: 0.074271 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.350716 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 624.
+Total: 0.434568 ms (FindLiveObjects: 0.077037 ms CreateObjectMapping: 0.056098 ms MarkObjects: 0.284049 ms  DeleteObjects: 0.015407 ms)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.315556 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 624.
+Total: 0.444839 ms (FindLiveObjects: 0.076246 ms CreateObjectMapping: 0.056098 ms MarkObjects: 0.299851 ms  DeleteObjects: 0.011456 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
+  at PressureCrate.OnCollisionEnter (UnityEngine.Collision Col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.293827 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 624.
+Total: 0.445234 ms (FindLiveObjects: 0.077037 ms CreateObjectMapping: 0.057679 ms MarkObjects: 0.292345 ms  DeleteObjects: 0.016592 ms)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.359407 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 624.
+Total: 0.440098 ms (FindLiveObjects: 0.085728 ms CreateObjectMapping: 0.059259 ms MarkObjects: 0.282074 ms  DeleteObjects: 0.011456 ms)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.520691 ms
+
+Unloading 178 unused Assets to reduce memory usage. Loaded Objects now: 182.
+Total: 1.829531 ms (FindLiveObjects: 0.015407 ms CreateObjectMapping: 0.015407 ms MarkObjects: 0.058864 ms  DeleteObjects: 1.739062 ms)
+
